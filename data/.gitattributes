@@ -1,8 +1,0 @@
-GSE46449_series_matrix.txt filter=lfs diff=lfs merge=lfs -text
-GDS2191_full.soft.gz filter=lfs diff=lfs merge=lfs -text
-GSE46449_family.soft.gz filter=lfs diff=lfs merge=lfs -text
-GSE46449_series_matrix.txt.gz filter=lfs diff=lfs merge=lfs -text
-GSE5389_family.soft.gz filter=lfs diff=lfs merge=lfs -text
-GDS2191_full.soft filter=lfs diff=lfs merge=lfs -text
-GSE46449_family.soft filter=lfs diff=lfs merge=lfs -text
-GSE5389_family.soft filter=lfs diff=lfs merge=lfs -text
